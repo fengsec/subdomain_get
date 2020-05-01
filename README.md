@@ -88,11 +88,11 @@ python3  sub.py  -f subdomain.txt  -o  result
 
     `chrome_path`				  	chromium
 
-- 
+    
 
-```
-pip  install  webscreenshot
-```
+-   正确配置PhantomJs环境变量
+
+-  `pip  install  webscreenshot`
 
 
 
